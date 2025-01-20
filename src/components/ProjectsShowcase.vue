@@ -46,15 +46,15 @@ export default {
       projects: [
         {
           id: 1,
-          title: "Vims-Portfolio",
+          title: "Shit-Portfolio",
           role: "GitHub Repository",
           year: "2024",
           gradientStart: "#FF512F",
           gradientEnd: "#F09819",
           image:
-            "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png", // Gambar project
-          icon: "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png", // URL ikon GitHub
-          link: "https://github.com/project-one",
+            "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
+          icon: "https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif",
+          link: "https://github.com/saintcitto/shit-portofolio",
         },
         {
           id: 2,
@@ -64,9 +64,9 @@ export default {
           gradientStart: "#396afc",
           gradientEnd: "#2948ff",
           image:
-            "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png", // Gambar project
-          icon: "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
-          link: "https://github.com/project-two",
+            "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
+          icon: "https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif",
+          link: "https://github.com/saintcitto/POS-Sonia-Cafe",
         },
         {
           id: 3,
@@ -76,9 +76,9 @@ export default {
           gradientStart: "#34e89e",
           gradientEnd: "#0f3443",
           image:
-            "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png", // Gambar project
-          icon: "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
-          link: "https://github.com/project-three",
+            "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
+          icon: "https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif",
+          link: "https://github.com/saintcitto/vims-portfolio",
         },
       ],
     };
@@ -154,6 +154,7 @@ export default {
 .cover-image {
   width: 100%;
   height: 100%;
+  border-radius: 5%;
   object-fit: cover;
 }
 
