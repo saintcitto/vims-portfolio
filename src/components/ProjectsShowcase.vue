@@ -52,7 +52,7 @@ export default {
           gradientStart: "#FF512F",
           gradientEnd: "#F09819",
           image: "https://via.placeholder.com/300x200",
-          icon: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+          icon: "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
           link: "https://github.com/saintcitto/vims-portfolio",
         },
         {
@@ -63,7 +63,7 @@ export default {
           gradientStart: "#396afc",
           gradientEnd: "#2948ff",
           image: "https://via.placeholder.com/300x200",
-          icon: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+          icon: "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
           link: "https://github.com/saintcitto/POS-Sonia-Cafe",
         },
         {
@@ -74,7 +74,7 @@ export default {
           gradientStart: "#34e89e",
           gradientEnd: "#0f3443",
           image: "https://via.placeholder.com/300x200",
-          icon: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+          icon: "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
           link: "https://github.com/saintcitto/shit-portofolio",
         },
       ],
