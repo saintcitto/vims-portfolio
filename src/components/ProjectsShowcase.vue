@@ -51,9 +51,10 @@ export default {
           year: "2024",
           gradientStart: "#FF512F",
           gradientEnd: "#F09819",
-          image: "https://via.placeholder.com/300x200",
-          icon: "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
-          link: "https://github.com/saintcitto/vims-portfolio",
+          image:
+            "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png", // Gambar project
+          icon: "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png", // URL ikon GitHub
+          link: "https://github.com/project-one",
         },
         {
           id: 2,
@@ -62,9 +63,10 @@ export default {
           year: "2024",
           gradientStart: "#396afc",
           gradientEnd: "#2948ff",
-          image: "https://via.placeholder.com/300x200",
+          image:
+            "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png", // Gambar project
           icon: "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
-          link: "https://github.com/saintcitto/POS-Sonia-Cafe",
+          link: "https://github.com/project-two",
         },
         {
           id: 3,
@@ -73,9 +75,10 @@ export default {
           year: "2024",
           gradientStart: "#34e89e",
           gradientEnd: "#0f3443",
-          image: "https://via.placeholder.com/300x200",
+          image:
+            "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png", // Gambar project
           icon: "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
-          link: "https://github.com/saintcitto/shit-portofolio",
+          link: "https://github.com/project-three",
         },
       ],
     };
