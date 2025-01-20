@@ -46,36 +46,36 @@ export default {
       projects: [
         {
           id: 1,
-          title: "Project One",
+          title: "Vims-Portfolio",
           role: "GitHub Repository",
           year: "2024",
           gradientStart: "#FF512F",
           gradientEnd: "#F09819",
           image: "https://via.placeholder.com/300x200",
           icon: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-          link: "https://github.com/project-one",
+          link: "https://github.com/saintcitto/vims-portfolio",
         },
         {
           id: 2,
-          title: "Project Two",
+          title: "POS Sonia Cafe",
           role: "GitHub Repository",
           year: "2024",
           gradientStart: "#396afc",
           gradientEnd: "#2948ff",
           image: "https://via.placeholder.com/300x200",
           icon: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-          link: "https://github.com/project-two",
+          link: "https://github.com/saintcitto/POS-Sonia-Cafe",
         },
         {
           id: 3,
-          title: "Project Three",
+          title: "Project Shit Portfolio",
           role: "GitHub Repository",
           year: "2024",
           gradientStart: "#34e89e",
           gradientEnd: "#0f3443",
           image: "https://via.placeholder.com/300x200",
           icon: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-          link: "https://github.com/project-three",
+          link: "https://github.com/saintcitto/shit-portofolio",
         },
       ],
     };
@@ -84,6 +84,8 @@ export default {
 </script>
 
 <style scoped>
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300;400;600;700&display=swap");
+
 *,
 *::before,
 *::after {
@@ -95,6 +97,7 @@ export default {
   margin: 0 auto;
   padding: 20px;
   overflow-x: hidden;
+  font-family: "Montserrat Alternates", sans-serif;
 }
 
 .projects-container {
@@ -125,6 +128,7 @@ export default {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
   transition: transform 0.3s, box-shadow 0.3s;
   cursor: pointer;
+  font-family: "Montserrat Alternates", sans-serif;
 }
 
 .project-card:hover {
@@ -168,6 +172,7 @@ export default {
   font-size: 1.1em;
   font-weight: bold;
   margin: 10px 0;
+  font-family: "Montserrat Alternates", sans-serif;
 }
 
 .project-role {
