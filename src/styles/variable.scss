@@ -1,0 +1,13 @@
+$font-primary: 'Montserrat Alternates', sans-serif;
+$color-primary: #00cec9;
+$color-secondary: #a29bfe;
+$background-dark: #000;
+$background-light: #111;
+
+@import 'variables';
+
+body {
+    $font-primary: 'Montserrat Alternates', sans-serif;
+  background-color: $background-dark;
+  color: white;
+}
