@@ -49,8 +49,8 @@ export default {
           title: "Shit-Portfolio",
           role: "GitHub Repository",
           year: "2024",
-          gradientStart: "#FF512F",
-          gradientEnd: "#F09819",
+          gradientStart: "#FF416C",
+          gradientEnd: "#FF4B2B",
           image:
             "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
           icon: "https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif",
@@ -61,8 +61,8 @@ export default {
           title: "POS Sonia Cafe",
           role: "GitHub Repository",
           year: "2024",
-          gradientStart: "#396afc",
-          gradientEnd: "#2948ff",
+          gradientStart: "#4776E6",
+          gradientEnd: "#8E54E9",
           image:
             "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
           icon: "https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif",
@@ -73,12 +73,24 @@ export default {
           title: "Project Portfolio",
           role: "GitHub Repository",
           year: "2025",
-          gradientStart: "#34e89e",
-          gradientEnd: "#0f3443",
+          gradientStart: "#00C9FF",
+          gradientEnd: "#92FE9D",
           image:
             "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
           icon: "https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif",
           link: "https://github.com/saintcitto/vims-portfolio",
+        },
+        {
+          id: 4,
+          title: "Data Analyst E-Commerce",
+          role: "GitHub Repository",
+          year: "2025",
+          gradientStart: "#FAD961",
+          gradientEnd: "#F76B1C",
+          image:
+            "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png",
+          icon: "https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif",
+          link: "https://github.com/saintcitto/ecommerce-data-analysis",
         },
       ],
     };
