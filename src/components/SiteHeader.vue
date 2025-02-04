@@ -27,11 +27,10 @@
 
 <style scoped>
 .header {
+  padding: 20px 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 50px;
-  background-color: #0d1117;
   color: white;
 }
 
@@ -60,7 +59,6 @@
   transform: scale(1.2);
 }
 
-/* Responsiveness for smaller screens */
 @media (max-width: 768px) {
   .header {
     flex-direction: column;

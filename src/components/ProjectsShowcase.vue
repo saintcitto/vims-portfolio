@@ -70,9 +70,9 @@ export default {
         },
         {
           id: 3,
-          title: "Project Shit Portfolio",
+          title: "Project Portfolio",
           role: "GitHub Repository",
-          year: "2024",
+          year: "2025",
           gradientStart: "#34e89e",
           gradientEnd: "#0f3443",
           image:

@@ -265,18 +265,14 @@ audio {
 }
 
 .gap-section {
-  margin-top: 40px;
+  margin-top: 20px;
   text-align: center;
-  font-size: 20px;
-  animation: bounceIn 1s ease-out;
 }
 
-.gap-message {
-  color: #fff;
-  padding: 20px;
-  border-radius: 10px;
-  animation: zoomIn 1s ease-out;
-  display: inline-block;
+.gap-message p {
+  margin-top: 10px;
+  font-size: 16px;
+  color: white;
 }
 
 .gap-gif {
